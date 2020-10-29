@@ -1,0 +1,88 @@
+
+.box-left {
+  width: 30%;
+  background-color: rgb(212, 212, 218);
+  float: left;
+  height: 100%;
+}
+
+.box-right {
+  width: 65%;
+  background-color: rgb(220, 240, 240);
+  float: right;
+  height: 100%;
+  padding-left: 5%;
+}
+
+.box-avatar{
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.clear {
+  display: table;
+  clear: both;
+}
+
+.box-left .avatar {
+  /* height: 300px; */
+  width: 50%;
+  border-radius: 50%; 
+  object-fit: contain; 
+  padding: 5px;
+  border: blue 2px solid;
+}
+
+.box-left-item {
+  margin: 0 20px 0 20px;
+}
+
+  .left-item_title p{
+    font-size: 20px;
+    margin-bottom: -2px;
+    text-align: center;
+    color: blue;
+  }
+  .left-item_title .icon {
+    width: 10%;
+    height: 30px;
+    border-radius: 50%;
+    border: black 1px solid;
+    float: left;
+  }
+    .icon i {
+      margin: 5px;
+      line-height: 20px;
+    }
+  
+  .left-item_title .line {
+    width: 80%; 
+    float: left;
+    margin-top: 8px;
+  }
+
+  .box-right .yourself h1{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: rgb(50, 112, 228);
+  }
+
+  .box-right .yourself p{
+    font-size: 20px;
+    margin-top: 4px;
+  }
+
+  .box-right .info i{
+    /* margin-top: 10px; */
+    font-size: 20px;
+    color: rgb(33, 184, 243);
+  }
+
+  .box-right .info span{
+    /* margin-left: 20px; */
+  }
+
+  .detail-list-content{
+    margin-left: 20%;
+  }

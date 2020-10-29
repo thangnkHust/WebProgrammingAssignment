@@ -1,0 +1,23 @@
+1, Tên môn
+2, Tại sao lại học môn này
+3, Áp dụng tại thời điểm nào
+4, Áp dụng như thế nào
+5, 
+
+Mini project
++ Scrum model
++ Trello check subtask
++ Nhóm 3
++ Đề tài: Có nhu cầu, web tương tự có nhưng chưa đáp ứng nhu cầu của mình 
+	Trình bày những thứ đã học --> áp dụng nó như thế nào
+
+Deadline thứ 7 
+Nhóm 3 người, vai trò từng người,
+Báo cáo tiến độ
+Tên đề tài
+
+MVC
+Responsive
+Front: Vue js
+Back: Rails
+
